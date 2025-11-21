@@ -1,0 +1,15 @@
+📁 public/
+├── index.html          ← Página principal
+├── sobre.html          ← Página "Sobre el movimiento"
+├── recursos.html       ← Página con todos los archivos
+├── guardian.html       ← Página para convertirse en Guardián
+├── impacto.html        ← Página con testimonios
+├── contacto.html       ← Página de contacto
+├── css/
+│   └── style.css       ← Estilos (colores, fuentes, diseño)
+├── js/
+│   └── main.js         ← Interacciones (si las hay)
+└── assets/             ← Imágenes, audios, PDFs
+    ├── logo.png
+    ├── hero-bg.mp4
+    └── ...
